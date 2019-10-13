@@ -1,5 +1,5 @@
 # vue-i18n
-文章介绍：https://wanghaijuan.github.io/article/vue-i18n/
+项目教程：https://wanghaijuan.github.io/article/vue-i18n/
 
 ## Project 
 ```
